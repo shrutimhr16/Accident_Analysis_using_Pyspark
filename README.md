@@ -17,7 +17,9 @@ a.	Application should perform below analysis and store the results for each anal
 
 ## Steps
 1. Clone repository
-2. Run Spark Submit
+2. Go to Project Directory:
+  cd Accident_Analysis_using_Pyspark
+3. Run Spark Submit
 >spark-submit main.py
 
 ## Conclusion
