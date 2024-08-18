@@ -1,0 +1,22 @@
+INPUT_FILE_NAME:
+  Charges: Data/Charges_use.csv
+  Damages: Data/Damages_use.csv
+  Endorse: Data/Endorse_use.csv
+  Primary_Person: Data/Primary_Person_use.csv
+  Units: Data/Units_use.csv
+  Restrict: Data/Restrict_use.csv
+
+OUTPUT_PATH:
+  1: ./Output/Analysis1
+  2: ./Output/Analysis2
+  3: ./Output/Analysis3
+  4: ./Output/Analysis4
+  5: ./Output/Analysis5
+  6: ./Output/Analysis6
+  7: ./Output/Analysis7
+  8: ./Output/Analysis8
+  9: ./Output/Analysis9
+  10: ./Output/Analysis10
+
+FILE_FORMAT:
+  Format: csv
