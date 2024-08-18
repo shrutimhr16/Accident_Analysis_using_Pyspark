@@ -14,11 +14,11 @@ a.	Application should perform below analysis and store the results for each anal
 9.	Analysis 9: Count of Distinct Crash IDs where No Damaged Property was observed and Damage Level (VEH_DMAG_SCL~) is above 4 and car avails Insurance
 10.	Analysis 10: Determine the Top 5 Vehicle Makes where drivers are charged with speeding related offences, has licensed Drivers, used top 10 used vehicle colours and has car licensed with the Top 25 states with highest number of offences (to be deduced from the data)
 
-<br>
-## Steps :
-1. clone repository
+
+## Steps
+1. Clone repository
 2. Run Spark Submit
-spark-submit main.py
+>spark-submit main.py
 
 ## Conclusion
 1. Find the number of crashes (accidents) in which number of males killed are greater than 2. -  3000
