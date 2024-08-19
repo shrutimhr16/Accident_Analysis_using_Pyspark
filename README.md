@@ -30,7 +30,8 @@ a.	Application should perform below analysis and store the results for each anal
 4. Determine number of Vehicles with driver having valid licences involved in hit and run?-  6359
 5. Which state has highest number of accidents in which females are not involved? - Texas
 6. Which are the Top 3rd to 5th VEH_MAKE_IDs that contribute to a largest number of injuries including death: ['TOYOTA', 'DODGE', 'NISSAN']
-7.For all the body styles involved in crashes, mention the top ethnic user group of each unique body style.
+7. For all the body styles involved in crashes, mention the top ethnic user group of each unique body style.
+<br>
 +---------------------------------+-----------------+
 |VEH_BODY_STYL_ID                 |PRSN_ETHNICITY_ID|
 +---------------------------------+-----------------+
@@ -51,10 +52,11 @@ a.	Application should perform below analysis and store the results for each anal
 |VAN                              |WHITE            |
 |YELLOW SCHOOL BUS                |WHITE            |
 +---------------------------------+-----------------+
-
+   
 8. Among the crashed cars, what are the Top 5 Zip Codes with highest number crashes with alcohols as the contributing factor to a crash  ['76010', '78521', '75067', '78574', '75052']
 9. Count of Distinct Crash IDs where No Damaged Property was observed and Damage Level (VEH_DMAG_SCL~) is above 4 and car avails Insurance [14870169, 14894076, 14996273, 15232090, 15232090, 15249931, 15307513]
-10. Determine the Top 5 Vehicle Makes where drivers are charged with speeding related offences, has licensed Drivers, used top 10 used vehicle colours and has car licensed with the Top 25 states with highest number of offences: ['FORD', 'CHEVROLET', 'TOYOTA', 'DODGE', 'NISSAN']
+10. Determine the Top 5 Vehicle Makes where drivers are charged with speeding related offences, has licensed Drivers, used top 10 used vehicle colours and has car licensed with the Top 25 states with highest number of offences:
+['FORD', 'CHEVROLET', 'TOYOTA', 'DODGE', 'NISSAN']
 
 
 <br>
